@@ -291,3 +291,9 @@ python 合并.py
 如果要更直接一点：
 
 > 盯关键词、切时间、跑双排序、自动去重、每小时落库出表，这项目就是专门干这个的。
+
+
+###创作不易感谢打赏
+
+<img width="1050" height="1284" alt="2688782cba3234472e188689e9cb84f6" src="https://github.com/user-attachments/assets/8f06a7b2-1622-436f-8585-bd8c3c8d23f0" />
+
